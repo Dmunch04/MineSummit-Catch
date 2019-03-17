@@ -1,0 +1,8 @@
+main: com.minesummit.plugin.Main
+version: 1.1
+name: MineSummit
+
+commands:
+  start:
+    description: You start
+    usage: /start
